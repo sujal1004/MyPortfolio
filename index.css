@@ -566,7 +566,7 @@ h4 {
 
 
 
-@media only screen and (max-width: 530px) and (min-width: 374px) {
+@media only screen and (max-width: 530px) and (min-width: 359px) {
     .footer-bottom {
         justify-content: center;
     }
