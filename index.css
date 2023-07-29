@@ -12,6 +12,7 @@ body {
     background-color: black;
     color: white;
     --theme-color: #ED5565;
+    --rate-color: #f48a94;
 }
 
 /* NAVBAR SECTION */
@@ -59,6 +60,10 @@ body {
 .list {
     overflow: auto;
 }
+
+/* DUSRI CSS TRYING  */
+
+
 
 /*  INTRO SECTION KA CSS */
 
@@ -161,6 +166,11 @@ h4 {
     color: var(--theme-color);
 } */
 
+
+.myintro {
+    font-size: medium;
+    margin: 20px 0px 20px 0px;
+}
 
 .meranaam h2 {
     color: #fff;
@@ -403,45 +413,47 @@ h4 {
 
 .rightSkillBar ul .html {
     width: 90%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
 }
 
 .rightSkillBar ul .css {
     width: 80%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
+
 }
 
 
 .rightSkillBar ul .js {
-    width: 50%;
-    background-color: var(--theme-color);
+    width: 40%;
+    background-color: var(--rate-color);
 }
 
 .rightSkillBar ul .bootstrap {
     width: 60%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
 }
 
 
 .rightSkillBar ul .reactjs {
     width: 40%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
 }
 
 
 .rightSkillBar ul .clang {
     width: 60%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
+
 }
 
 .rightSkillBar ul .python {
     width: 30%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
 }
 
 .rightSkillBar ul .DSA {
     width: 50%;
-    background-color: var(--theme-color);
+    background-color: var(--rate-color);
 }
 
 .language {
